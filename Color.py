@@ -1,0 +1,10 @@
+def Red():
+	return (255,0,0)
+def Green():
+	return (0,255,0)
+def Blue():
+	return (0,0,255)
+def Black():
+	return (0,0,0)
+def White():
+	return (255,255,255)
